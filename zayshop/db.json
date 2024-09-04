@@ -1,0 +1,25 @@
+{
+  "user": [
+    {
+      "id": "70cb",
+      "fname": "jainam",
+      "lname": "Jain",
+      "email": "jainamjain3949@gmail.com",
+      "pass": "jj@62"
+    },
+    {
+      "id": "5476",
+      "fname": "Krish",
+      "lname": "Jain",
+      "email": "krishjain3949@gmail.com",
+      "password": "Neel@52521"
+    },
+    {
+      "id": "b52f",
+      "fname": "sunil",
+      "lname": "jain",
+      "email": "suniljain@gmail.com",
+      "password": "neel5"
+    }
+  ]
+}
